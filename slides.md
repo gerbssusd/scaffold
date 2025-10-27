@@ -4,8 +4,7 @@ class: 'text-center'
 highlighter: shiki
 lineNumbers: false
 info: |
-  ## Teaching for Deeper Learning
-  Strategies suggested in the book by McTighe & Silver (2020)
+  ## Scaffolding: Chapter 4
 drawings:
   persist: false
 css: unocss
@@ -32,7 +31,7 @@ image: /2_2.png
 backgroundSize: contain
 ---
 
-# Framing Curriculum and Instruction around Important Ideas
+# 4 Ways to structure Scaffolding
 
 ---
 layout: image-left
@@ -40,15 +39,25 @@ image: /3.jpg
 backgroundSize: 100% 110%
 ---
 
-# A Study In...
+- Teacher and peer scaffolding
+- Content scaffolding
+- Task scaffolding
+- Materials Scaffolding
 
-**Planning to focus on key concepts – NOT topics, skills or texts**
+---
+layout: image-right
+image: /3.jpg
+---
+# Teacher and Peer Scaffolding
+- Word Walls
+- Guided think-alouds
+- Recorded mini-lessons
 
-- There is no "correct" choice for concept or theme focus
-
-**The study should**
-- Support target standards
-- Support "big" ideas
+## Peer Scaffolding
+- read and discuss
+- challenge ideas
+- collaboratively sove problems
+- 
 
 
 ---
