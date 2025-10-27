@@ -48,7 +48,7 @@ backgroundSize: 100% 110%
 layout: image-right
 image: /3.jpg
 ---
-# Teacher and Peer Scaffolding
+## Teacher Scaffolding
 - Word Walls
 - Guided think-alouds
 - Recorded mini-lessons
@@ -57,8 +57,6 @@ image: /3.jpg
 - read and discuss
 - challenge ideas
 - collaboratively sove problems
-- 
-
 
 ---
 class: text-center
