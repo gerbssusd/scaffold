@@ -62,7 +62,7 @@ image: /place.png
 # Content Scaffolding
 
 - less complex, paired texts
-- short videow with background
+- short video with background
 - mentor texts with key points
 - graphic novels
   - smaller chunks
@@ -78,7 +78,47 @@ image: /place.png
 
 ---
 
-#
+# Materials Scaffold
+
+- nonprint texts
+  - audiobooks
+  - videos
+  - kinesthetic and interactive materials
+- graphic organizers
+- study guides
+- embedded visual cues
+  - color coding
+  - visual icons
+  - annotated exemplars
+  - hyperlinks
+chunked texts- 
+  
+---
+
+# Considerations
+
+## Cognitive Deemand / Cognitive Load
+
+Range of mental processing needed to complete a task within the context
+- reasoning and decision making
+
+---
+
+# Considerations
+
+## How can scaffoilding support students
+
+- accesible content
+- proscessing support
+
+---
+
+# Reasons to scaffold during instruction
+
+1) to deepen content knowledge and connect big ideas
+1) To facilitate executive function and application of skills and processes
+1) To support language and vocbulary develolpment
+
 ---
 class: text-center
 layout: end
