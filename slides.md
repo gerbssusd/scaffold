@@ -43,7 +43,7 @@ backgroundSize: 100% 110%
 - Materials Scaffolding
 
 ---
-layout: image-right
+layout: two-cols
 image: /place.png
 ---
 ## Teacher Scaffolding
@@ -51,18 +51,37 @@ image: /place.png
 - Guided think-alouds
 - Recorded mini-lessons
 
+::right::
+
 ## Peer Scaffolding
 - read and discuss
 - challenge ideas
 - collaboratively sove problems
 
 ---
+# Content Scaffolding
+
+- less complex, paired texts
+- short videow with background
+- mentor texts with key points
+- graphic novels
+  - smaller chunks
+  - supporting visuals
+
+ ---
+
+ # Task Scaffolding
+ - multistep tasks > smaller steps
+ - basic skills in isolation > applied skills in routine tasks > problem based activiteis with less complesx content ?
+ - guided practice ? independent tasks
+ - Tech Tools (graphing calculators)
+
+---
+
+#
+---
 class: text-center
 layout: end
 ---
 
-# -fini-
-
----
-end
 ---
