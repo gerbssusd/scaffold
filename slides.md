@@ -116,9 +116,9 @@ Range of mental processing needed to complete a task within the context
 
 # Reasons to scaffold during instruction
 
-1) to deepen content knowledge and connect big ideas
-1) To facilitate executive function and application of skills and processes
-1) To support language and vocbulary develolpment
+1. to deepen content knowledge and connect big ideas
+1. To facilitate executive function and application of skills and processes
+1. To support language and vocbulary develolpment
 
 ---
 class: text-center
