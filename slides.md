@@ -9,8 +9,6 @@ drawings:
   persist: false
 css: unocss
 layout: cover
-background: /1_2.png
-backgroundSize: contain
 ---
 
 # scaffolding
@@ -27,7 +25,7 @@ https://purl.org/nga/collection/artobject/57501, CC0, via Wikimedia Commons
 ---
 layout: image-right
 class: rotate-20 mt-40
-image: /2_2.png
+image: /place.png
 backgroundSize: contain
 ---
 
@@ -35,7 +33,7 @@ backgroundSize: contain
 
 ---
 layout: image-left
-image: /3.jpg
+image: /place.png
 backgroundSize: 100% 110%
 ---
 
@@ -46,7 +44,7 @@ backgroundSize: 100% 110%
 
 ---
 layout: image-right
-image: /3.jpg
+image: /place.png
 ---
 ## Teacher Scaffolding
 - Word Walls
