@@ -9,6 +9,7 @@ drawings:
   persist: false
 css: unocss
 layout: cover
+favicon: /Maxfav.png
 ---
 
 # scaffolding
